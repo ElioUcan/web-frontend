@@ -1,0 +1,13 @@
+# Git Worktrees
+.worktrees/
+
+# Python y uv
+.venv/
+__pycache__/
+*.pyc
+.cache/
+
+# Editores y sistema
+.DS_Store
+*.swp
+*~

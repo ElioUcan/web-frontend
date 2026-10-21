@@ -1,0 +1,7 @@
+{
+  "indent": 4,
+  "profile": "html",
+  "preserve_blank_lines": true,
+  "max_blank_lines": 1,
+  "ignore": "H016,H020,H006,H030"
+}
